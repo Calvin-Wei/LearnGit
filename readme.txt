@@ -5,3 +5,4 @@ Git reacks changes.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Management many branch.
+Readme.txt BUG
